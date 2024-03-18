@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently a computer science major with Business systems
+💡I would like to collaborate on projects
+🕸️A coffee coder
+👤I'm currently a computer science major with Business systems
 
 
 # 💻 Tech Stack:

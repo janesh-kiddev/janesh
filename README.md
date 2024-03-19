@@ -2,6 +2,7 @@
 💡I would like to collaborate on projects
 🕸️A coffee coder
 👤I'm currently a computer science major with Business systems
+👾can be found in discord or in front of computer
 
 
 # 💻 Tech Stack:

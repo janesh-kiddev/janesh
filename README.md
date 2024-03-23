@@ -19,4 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janesh-kiddev&show_icons=true&locale=en&layout=compact" alt="janesh-kiddev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janesh-kiddev&" alt="janesh-kiddev" /></p>

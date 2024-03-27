@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **janeshnanda@gmail.com**
 
-- ⚡ Fun fact **A passionate coder**
+- ⚡ Fun fact **A adventurous person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

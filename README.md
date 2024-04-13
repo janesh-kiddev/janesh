@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Janeshnanda K S</h1>
 <h3 align="center">A passionate cs student who likes to touch upon the fields like AI/ML</h3>
 
-- 🌱 I’m currently learning **Pandas,Numpy, Tensorflow**
+- 🌱 I’m currently learning **Pandas , Numpy, Tensorflow , ML**
 
 - 📫 How to reach me **janeshnanda@gmail.com**
 
-- ⚡ Fun fact **A adventurous person**
+- ⚡ Fun fact **A adventurous person, coffeehead**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

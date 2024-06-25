@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janeshnanda K S</h1>
 <h3 align="center">A cs student who likes to touch upon the fields like AI/ML</h3>
 
-- 🌱 I’m currently learning **Pandas , Numpy, Tensorflow , ML**
+- 🌱 I’m currently learning **ML** , **YOLO**
 
 - 📫 How to reach me **janeshnanda@gmail.com**
 
